@@ -34,12 +34,12 @@ if(isset($_POST['email']) and isset($_POST['password']))
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Sign In</title>
+		<title>WELCOME CRUD</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/css.css">
 	</head>
 	<body>
 		<div style="width:500px;margin:100px auto; border:5px solid #dd4814;padding: 20px;padding-right: 40px; background: #333;color:#fff;">
-			<h1 style="text-align: center">Sign In</h1>
+			<h1 style="text-align: center">Login Disini...</h1>
 			<form method="POST" action="">
 				<table>
 					<tr>

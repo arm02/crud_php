@@ -5,19 +5,17 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<meta name="viewport"
-	content="width=device-width, initial-scale=1.0">
+		<meta name="viewport"
+			content="width=device-width,initial-scale=1.0">
 		<title>PDO CRUDSRUD</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/css.css">
 	</head>
 	<body>
-
 		<div class="top-gray"></div>
 		<div class="header">
-			<div class="big-logo">CYB</div>
+			<div class="big-logo">Latihan CRUDSCRUD</div>
 			<?php include'menu.php';?>
 		</div>
-<br>
 		<div class="content">
 			<div class="container">
 				<?php
@@ -73,6 +71,5 @@
 				else{inc('home');}?>
 		</div>
 	</div>
-
 	</body>
 </html>
